@@ -28,6 +28,7 @@ public class ThirdPersonMovement : MonoBehaviour
 
     void Update()
     {
+        if (Time.timeScale != 1) return;
         grounded = Physics.CheckSphere(groundCheck.position, 0.1f, groundLayer);
 
         if(grounded && velocity.y < 0)

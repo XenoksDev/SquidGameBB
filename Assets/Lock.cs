@@ -3,7 +3,7 @@ using UnityEngine;
 public class Lock : MonoBehaviour
 {
     bool moving;
-    Quaternion targetRotation;
+    public Quaternion targetRotation;
     Transform doorTransform;
     public int lockI;
 
@@ -54,6 +54,10 @@ public class Lock : MonoBehaviour
                 break;
             case 2:
                 if (Player.instance.hasC) return true;
+                break;
+            case 3:
+                if (Player.instance.hasC && Player.instance.hasT && Player.instance.hasR) return true;
+
                 break;
         }
         return false;

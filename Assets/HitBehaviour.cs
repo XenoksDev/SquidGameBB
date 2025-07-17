@@ -44,7 +44,7 @@ public class HitBehaviour : MonoBehaviour
             Invoke("Cooldown", 0.8f);
 
         }
-        if (hit.transform.TryGetComponent<BarToPick>(out BarToPick b) && Input.GetKeyDown(KeyCode.E))
+        if (raycast && hit.transform.TryGetComponent<BarToPick>(out BarToPick b) && Input.GetKeyDown(KeyCode.E))
         {
             Destroy(b.gameObject);
             GetBar();
