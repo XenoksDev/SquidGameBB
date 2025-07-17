@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: ac645507841448046aa915c24873890b
+guid: 61aa2d8e1982f69479a7ed6abefe0b07
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,24 +37,24 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 400
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -134,12 +134,276 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1007
+        width: 726
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5003adcd92ca70949b890e4abfcbdf1d
+      internalID: 1854147014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_1
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 981
+        width: 281
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b7edde6b4f50e42938f3fa32a6c32b
+      internalID: 126390179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_2
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 933
+        width: 237
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22b15dbd23adaa4c853780874cb7ab9
+      internalID: -1589488560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_3
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 958
+        width: 642
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba3f5154f593194e80593b0947807dc
+      internalID: 1188335901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_4
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 569
+        width: 613
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de29714b8b42f2498c1a36f47c9fef4
+      internalID: 281962439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_5
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 552
+        width: 424
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2ee65518e309c459200e62451585b6
+      internalID: -424079111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_6
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 599
+        width: 513
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9281505a1e816c44482a2954231eb1ee
+      internalID: 1776392658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 544
+        width: 881
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a14d0db5f07d24e9cc45c4b9283ebb
+      internalID: 1551313096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 110
+        width: 568
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f623f7e392661a94bb9be2dfeb5725c0
+      internalID: -870730789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_9
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 63
+        width: 475
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ddc8a6c3292f4093be6855a7b5ac9
+      internalID: -286678779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_10
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 97
+        width: 1146
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d2433b0ee5aca4b950d2d78cdace13
+      internalID: -354561326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dessins_sur_les_murs_du_squid_game_11
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 85
+        width: 555
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e954143588c41264eb6df095867b11fe
+      internalID: 626015616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a059b5eae50d90a4fbe535ebdd5783bc
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +412,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dessins_sur_les_murs_du_squid_game_0: 1854147014
+      dessins_sur_les_murs_du_squid_game_1: 126390179
+      dessins_sur_les_murs_du_squid_game_10: -354561326
+      dessins_sur_les_murs_du_squid_game_11: 626015616
+      dessins_sur_les_murs_du_squid_game_2: -1589488560
+      dessins_sur_les_murs_du_squid_game_3: 1188335901
+      dessins_sur_les_murs_du_squid_game_4: 281962439
+      dessins_sur_les_murs_du_squid_game_5: -424079111
+      dessins_sur_les_murs_du_squid_game_6: 1776392658
+      dessins_sur_les_murs_du_squid_game_7: 1551313096
+      dessins_sur_les_murs_du_squid_game_8: -870730789
+      dessins_sur_les_murs_du_squid_game_9: -286678779
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
